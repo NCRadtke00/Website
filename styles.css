@@ -1,0 +1,174 @@
+*{
+    margin:0;
+padding:0;
+box-sizing: border-box;
+ }
+ html {
+     font-size: 62.5%;
+ }
+ .clear{
+     clear: both;
+ }
+ h1{
+     font-size: 2.8rem;
+ }
+ h2{
+     
+     font-size: 3.6rem;
+    
+}
+h4{
+    
+    color: white;
+    font-size: 3.6rem;
+    text-shadow: 3px 3px 3px black; 
+    
+}
+h5{
+    font-size: 2.5rem;
+    color: white;
+    text-shadow: 3px 3px 3px black; 
+    
+}
+p2{
+    font-size: 2.2rem;
+    text-shadow: 3px 3px 3px black; 
+    color: white;
+}
+li{
+    color: white;
+    text-decoration: none;
+    font-size: 2.4rem;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 2.4rem;
+}
+
+h3{
+    font-size: 2.8rem;
+}
+p,
+p1{
+    font-size: 2.5rem;
+}
+
+nav{
+    background: rgb(61, 81, 102);
+    color: white;
+}
+nav h1{
+    float: left;
+}
+nav ul{
+    float: right;
+}
+nav li{
+    float: left;
+    margin: 0rem 4rem;
+}
+.hero-section{
+    background-image: url("pexels-burst-373893.jpg");
+    height: 80rem;
+    background-position: center ;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 15rem;
+    text-shadow: 3px 3px 3px black; 
+}
+.hero-section button{
+    margin-top: 4rem;
+    padding: 1rem 4rem;
+    background: rgb(61, 81, 102);
+    border: none;
+    color: white;
+    cursor: pointer;
+    
+}
+.body1-section{
+    background-image: url("DSC_0591.jpg");
+    height: 80rem;
+    background-position: center ;
+    background-size: cover;
+    text-align: left;
+    color: white;
+    padding-top: 15rem;
+    text-shadow: 3px 3px 3px black; 
+}
+.body1-section button{
+    margin-top: 4rem;
+    padding: 1rem 4rem;
+    background: rgb(61, 81, 102);
+    border: none;
+    color: black;
+    cursor: pointer;
+    float: left;
+    
+}
+.box6{
+    width: 40%;
+    height:60%;
+    border: 1px transparent white;
+    margin: 1rem;
+   text-align: center;
+   text-size-adjust: 5rem;
+}
+
+.body2-section{
+    background-image: url("DSC_0567.png");
+    height: 80rem;
+    background-position: center ;
+    background-size: cover;
+    text-align: left;
+    color: white;
+    padding-top: 15rem;
+    text-shadow: 3px 3px 3px black; 
+
+}
+.box1,
+.box2,
+.box3,
+.box4,
+.box5{
+    width: 85%;
+    height: 15%;
+    border: 2.5px transparent white;
+    margin: 1rem;
+    text-align: center;
+}
+
+
+.form-section{
+    background-image: url("pexels-burst-373893.jpg");
+    height: 80rem;
+    background-position: center ;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 15rem;
+    text-shadow: 3px 3px 3px black; 
+}
+form,
+form input,
+ form label,
+  form textarea {
+    display: block;
+    font-size: 2.4rem;
+    
+}
+form input,
+ form textarea {
+     margin: 2rem auto;
+     width: 50%;
+}
+form button{
+    margin-bottom: 10rem;
+    padding: 2rem 4rem;
+    background: rgb(61, 81, 102);
+    border: none;
+    color: white;
+    cursor: pointer;
+    width: 50%;
+}
