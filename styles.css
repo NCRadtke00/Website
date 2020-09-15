@@ -68,6 +68,20 @@ nav li{
     float: left;
     margin: 0rem 4rem;
 }
+nav2{
+    background: transparent;
+    color: white;
+}
+nav2 h1{
+    float: left;
+}
+nav2 ul{
+    float: right;
+}
+nav2 li{
+    float: left;
+    margin: 0rem 4rem;
+}
 .hero-section{
     background-image: url("pexels-burst-373893.jpg");
     height: 80rem;
@@ -89,7 +103,7 @@ nav li{
 }
 .body1-section{
     background-image: url("DSC_0591.jpg");
-    height: 80rem;
+    height: 100Rem;
     background-position: center ;
     background-size: cover;
     text-align: left;
@@ -118,7 +132,7 @@ nav li{
 
 .body2-section{
     background-image: url("DSC_0567.png");
-    height: 80rem;
+    height: 100rem;
     background-position: center ;
     background-size: cover;
     text-align: left;
@@ -142,7 +156,7 @@ nav li{
 
 .form-section{
     background-image: url("pexels-burst-373893.jpg");
-    height: 80rem;
+    height: 80%;
     background-position: center ;
     background-size: cover;
     text-align: center;
